@@ -6,19 +6,18 @@ html {
     background-color: #b65855;
   }
 
- .obsah li>a {
+  .obsah li {
     display: block;
+    padding: 10px 5px;
+    margin: 10px;
+  }
+  
+ .obsah li>a {
     text-decoration: none;
     background-color: #cd9dbe;
     font-size: 22px;
     color:white;
-    padding: 5px;
-    padding-bottom: 10px;
-    padding-top: 10px;
-    border-radius: 15px;
-    margin: 10px;
-    border-top-left-radius: 15px
-    border-top-right-radius: 15px
+    border-radius: 5px;
   }
 
   ul {
