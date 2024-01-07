@@ -6,7 +6,8 @@ html {
     background-color: #b65855;
   }
 
-  a {
+ .obsah li>a {
+    display: block;
     text-decoration: none;
     background-color: #cd9dbe;
     font-size: 22px;
