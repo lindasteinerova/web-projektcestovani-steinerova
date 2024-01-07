@@ -5,6 +5,7 @@ html {
   body {
     text-align: center;
     background-color: #b65855;
+    font-family: Inter, Sans-serif;
   }
 
   .obsah li {
