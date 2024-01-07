@@ -1,7 +1,11 @@
 html {
-    height: 100%;
-    width: 100%;
+  min-height: 100vh;  
   }
+
+  body {
+    background-color: #b65855;
+  }
+
   a {
     text-decoration: none;
     background-color: #cd9dbe;
