@@ -20,4 +20,9 @@ html {
     border-top-left-radius: 15px
     border-top-right-radius: 15px
   }
+
+  ul {
+    list-style-type: none;
+    display: block;
+  }
   
